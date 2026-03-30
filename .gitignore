@@ -1,0 +1,26 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.eggs/
+*.egg-info/
+
+# Environment
+.env
+
+# Model artifacts (too large for GitHub)
+model_artifacts/
+
+# Logs
+*.log
+streamlit.log
+
+# OS
+.DS_Store
+Thumbs.db
+```
+# Jupyter
+*.ipynb
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
