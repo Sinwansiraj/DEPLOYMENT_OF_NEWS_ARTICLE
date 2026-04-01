@@ -263,7 +263,7 @@ Machine Learning Engineer
 📍 Coimbatore, Tamil Nadu  
 🔗 [GitHub](https://github.com/Sinwansiraj/DEPLOYMENT_OF_NEWS_ARTICLE)
 🔗 [Email](sinwanmohammed022@gmail.com)
-🔗 [LinkedIN](www.linkedin.com/in/mohammed-sinwan-07b410162)
+🔗 [LinkedIN](https://www.linkedin.com/in/mohammed-sinwan-07b410162)
 
 ---
 
