@@ -1,5 +1,5 @@
 # 📰 News Article Categorization System
-
+🌐 Live Demo: http://16.112.70.36:8501
 ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.1-orange?logo=pytorch)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-Transformers-yellow?logo=huggingface)
@@ -187,7 +187,7 @@ nohup venv/bin/streamlit run app.py \
   > streamlit.log 2>&1 &
 ```
 
-App will be live at: `http://<EC2-PUBLIC-IP>:8501`
+App will be live at: 🌐 Live Demo: http://16.112.70.36:8501
 
 ---
 
