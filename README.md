@@ -12,6 +12,11 @@ An end-to-end production-ready **News Article Categorization System** that fine-
 
 ---
 
+## Problem statement
+News platforms process millions of articles daily. Manual categorization doesn't scale. This system automates that using a fine-tuned transformer, achieving 94.62% accuracy across 4 categories on the AG News benchmark.
+
+---
+
 ## 🎯 Categories
 
 | Label | Examples |
@@ -70,7 +75,7 @@ news-categorization/
 |---|---|---|
 | Accuracy | 88.0% | **94.62%** |
 | Eval Loss | 0.4156 | **0.1661** |
-| Training Time | ~16 min (CPU) | ~19 hrs (CPU) |
+| Training Time | ~16 min (CPU) | ~2 hrs (CPU) |
 | Model Size | — | 247 MB |
 
 **Base Model:** `distilbert-base-uncased`  
@@ -227,7 +232,7 @@ Includes two analytical views:
 | Input | Predicted | Confidence |
 |---|---|---|
 | Apple launches new iPhone with breakthrough AI chip | Science/Technology | 97.5% |
-| Manchester United beats Arsenal in extra time | Sports | 55.0% |
+| Jadeja, who played for CSK for 12 seasons,having played over 250 games | Sports | 99.7% |
 | Federal Reserve raises interest rates by 50 bps | Business | 99.6% |
 | NASA discovers water ice beneath Mars surface | Science/Technology | 98.7% |
 | Tesla reports record quarterly revenue | Business | 93.6% |
