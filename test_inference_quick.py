@@ -7,7 +7,7 @@ load_model("model_artifacts/final_model")
 
 tests = [
     "Apple launches new iPhone with breakthrough AI chip",
-    "Manchester United beats Arsenal in extra time thriller",
+    "Jadeja, who played for CSK for 12 seasons,having played over 250 games",
     "Federal Reserve raises interest rates by 50 basis points",
     "NASA discovers evidence of water ice beneath Mars surface",
 ]

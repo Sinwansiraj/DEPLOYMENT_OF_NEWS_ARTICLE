@@ -25,7 +25,7 @@ echo "[2/7] Cloning repository..."
 if [ -d "$APP_DIR" ]; then
     cd "$APP_DIR" && git pull
 else
-    git clone https://github.com/YOUR_GITHUB_USER/news-categorization.git "$APP_DIR"
+    git clone https://github.com/Sinwansiraj/DEPLOYMENT_OF_NEWS_ARTICLE.git "$APP_DIR"
     cd "$APP_DIR"
 fi
 
