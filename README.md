@@ -17,7 +17,7 @@ News platforms process millions of articles daily. Manual categorization doesn't
 
 ---
 ## 📸 App Screenshot
-
+<img src="screenshots/world_prediction.png" width="700"/>
 ![World News Prediction](screenshots/world_prediction.png)
 ![Sports Prediction](screenshots/sports_prediction.png)
 ![Business Prediction](screenshots/business_prediction.png)
