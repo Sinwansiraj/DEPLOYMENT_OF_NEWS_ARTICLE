@@ -16,12 +16,18 @@ An end-to-end production-ready **News Article Categorization System** that fine-
 News platforms process millions of articles daily. Manual categorization doesn't scale. This system automates that using a fine-tuned transformer, achieving 94.62% accuracy across 4 categories on the AG News benchmark.
 
 ---
-## 📸 App Screenshot
-<img src="screenshots/world_prediction.png" width="400"/>
-<img src="screenshots/sports_prediction.png" width="400"/>
-<img src="screenshots/business_prediction.png" width="400"/>
-<img src="screenshots/scitech_prediction.png" width="400"/>
----
+## App Screenshot
+
+<table>
+  <tr>
+    <td align="center"><img src="screenshots/world_prediction.png" width="400"/><br/>🌍 World (99.8%)</td>
+    <td align="center"><img src="screenshots/sports_prediction.png" width="400"/><br/>⚽ Sports (98.5%)</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="screenshots/business_prediction.png" width="400"/><br/>💼 Business (84.6%)</td>
+    <td align="center"><img src="screenshots/scitech_prediction.png" width="400"/><br/>🔬 Science/Tech (99.6%)</td>
+  </tr>
+</table>
 
 ## 🎯 Categories
 
